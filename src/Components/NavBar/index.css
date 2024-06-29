@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+  padding-left: 40px;
+  padding-right: 40px;
+  align-items: center;
+  color: #ffffff;
+}
+.nav-card {
+  display: flex;
+  align-items: center;
+}
+.score {
+  color: #fec653;
+  font-size: 22px;
+}
+.scoreCard {
+  flex-grow: 1;
+  font-size: 20px;
+}
+.logo{
+   width: 17%;
+}
+.logo2{
+ width: 15%;
+ margin-right: 5px;
+}

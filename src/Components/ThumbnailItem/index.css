@@ -1,0 +1,9 @@
+.thumbCard {
+  margin-right: 5px;
+  width: 19%;
+  flex-shrink: 0;
+  margin-bottom: 5px;
+}
+.pic12 {
+  width: 100%;
+}

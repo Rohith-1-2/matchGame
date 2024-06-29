@@ -1,0 +1,41 @@
+.another {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/match-game-score-card-lg-bg.png');
+  background-size: cover;
+  width: 70%;
+  height: 1000px;
+  text-align: center;
+  padding-top: 270px;
+  color: #ffffff;
+}
+.pictro {
+  width: 70%;
+}
+.but45 {
+  background-color: #cf60c8;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
+  color: #ffffff;
+  width: 20%;
+}
+.scored {
+  font-size: 70px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.yscore {
+  margin-bottom: 5px;
+  font-size: 30px;
+}
+.butCard {
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+.pa12{
+  font-size: 20px;
+}
